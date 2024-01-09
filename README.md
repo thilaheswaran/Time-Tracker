@@ -1,1 +1,3 @@
 # Time-Tracker
+
+The time tracker portal provides registered users with the capability to log in and manage their timesheet entries seamlessly. Users can add, save, modify, and delete daily entries, specifying the projects they have worked on throughout the week. The system enforces a strict submission policy, ensuring that once entries are submitted, they become unmodifiable, maintaining data integrity. Users also have the convenience of viewing their timesheet summaries on a weekly or monthly basis through a dropdown selection. Upon successfully submitting their time entries, users can securely log off the portal, creating an efficient and user-friendly experience for time tracking and management.
